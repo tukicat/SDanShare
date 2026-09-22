@@ -15,7 +15,7 @@ I have tested this device on a ZX Spectrum +2 (Grey) with a Windows 11 PC. There
 
 **Bill of Materials**
 
-The SDanShare is designed to be cheap and simple to make, the following components are required (all through hole): - Click here for a link to the Bill of Materials
+The SDanShare is designed to be cheap and simple to make, the following components are required (all through hole): - Click here for a link to the [Bill of Materials](https://github.com/tukicat/SDanShare/blob/main/Bill%20of%20Materials.txt)
 
 **License**
 
