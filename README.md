@@ -9,6 +9,8 @@ This is useful if you want to curate game collections and delete or add games qu
 
 I have tested this device on a ZX Spectrum +2 (Grey) with a Windows 11 PC. There is no reason why it should work on other spectrum models, but i'll leave that for others to test.
 
+![Rev 1 PCB Image](https://github.com/tukicat/SDanShare/blob/main/PCB/SDanShare%20Rev%201%20Picture.jpg)
+
 **Bill of Materials**
 
 The SDanShare is designed to be cheap and simple to make, the following components are required (all throughole): -
