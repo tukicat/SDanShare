@@ -9,7 +9,7 @@ This is useful if you want to curate game collections and delete or add games qu
 
 I have tested this device on a ZX Spectrum +2 (Grey) with a Windows 11 PC. There is no reason why it should work on other spectrum models, but i'll leave that for others to test.
 
-Bill of Materials
+**Bill of Materials**
 
 The SDanShare is designed to be cheap and simple to make, the following components are required (all throughole): -
 
@@ -23,7 +23,7 @@ The SDanShare is designed to be cheap and simple to make, the following componen
 2 x LEDs (Optional)
 2 x 330r Resistors (Only needed if using LEDs)
 
-License
+**License**
 
 The SDanShare is for free use you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
