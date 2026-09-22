@@ -5,6 +5,8 @@ With this device the SD card for the Dandanator Multiply can remain connected to
 
 This is useful if you want to curate game collections and delete or add games quickly without removing the SD card from the Multiply.
 
+![PCB Image](https://github.com/tukicat/SDanShare/blob/a5a017484c061787854efeb02938c7ddf3631a88/PCB/SDanShare_Rev2.png)
+
 I have tested this device on a ZX Spectrum +2 (Grey) with a Windows 11 PC. There is no reason why it should work on other spectrum models, but i'll leave that for others to test.
 
 Bill of Materials
