@@ -11,7 +11,7 @@ I have tested this device on a ZX Spectrum +2 (Grey) with a Windows 11 PC. There
 
 ![Rev 1 PCB Image](https://github.com/tukicat/SDanShare/blob/main/PCB/SDanShare%20Rev%201%20Picture.jpg)
 
-                                  *Revision 1 Prototype*
+*Revision 1 Prototype*
 
 **Bill of Materials**
 
