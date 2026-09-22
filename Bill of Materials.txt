@@ -1,0 +1,9 @@
+1 x SDanShare PCB
+1 x SD 3.3v SD Card Reader
+1 x 6mm Momentary Switch
+1 x AMS1117 (these are usually SMD, but you can buy them on boards for through hole use - which is what I have used on this to keep the soldering simple)
+1 x SN74LVC245 (I have socketed this, but this is optional)
+6 x Pinheaders (male)
+6 x Cables with dupont connectors (female each end)
+2 x LEDs (Optional)
+2 x 330r Resistors (Only needed if using LEDs)
