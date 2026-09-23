@@ -19,9 +19,9 @@ The SDanShare is designed to be cheap and simple to make, the following componen
 
 **License**
 
-The SDanShare is for free use you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+The SDanShare is for free use you can redistribute it and/or modify it under the terms of the CC0 1.0 Universal License, or (at your option) any later version.
 
-The SDanShare is distributed in the hope that it will be useful in some way, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+The SDanShare is distributed in the hope that it will be useful in some way, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 
 A copy of the full license can be found in the [LICENSE](https://github.com/tukicat/SDanShare/blob/main/LICENSE) file
 
