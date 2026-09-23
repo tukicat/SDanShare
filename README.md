@@ -24,3 +24,12 @@ The SDanShare is for free use you can redistribute it and/or modify it under the
 The SDanShare is distributed in the hope that it will be useful in some way, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 A copy of the full license can be found in the [LICENSE](https://github.com/tukicat/SDanShare/blob/main/LICENSE) file
+
+**Acknowledgments**
+
+My project is just a simple device that stands on the shoulders of the fantastic work by others, namely Dandare, Mad3001 and OverCLK. It is designed by me to compliment the two devices listed below of which these three people worked as a team to create and develop:
+
+The ZX Spectrum Dandantor - http://www.dandare.es/Proyectos_Dandare/ZX_Dandanator%21_Mini_EN.html
+
+The Dandantor Multiply - https://github.com/mad3001/Multiply
+
