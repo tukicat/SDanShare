@@ -7,17 +7,19 @@ This is useful if you want to curate game collections and delete or add games qu
 
 ![PCB Image](https://github.com/tukicat/SDanShare/blob/a5a017484c061787854efeb02938c7ddf3631a88/PCB/SDanShare_Rev2.png)
 
-I have tested this device on a ZX Spectrum +2 (Grey) with a Windows 11 PC. There is no reason why it should work on other spectrum models, but i'll leave that for others to test.
+**Bill of Materials**
+
+The SDanShare is designed to be cheap and simple to make, the following components are required (all through hole): - [Bill of Materials](https://github.com/tukicat/SDanShare/blob/main/Bill%20of%20Materials.txt)
 
 ![Rev 1 PCB Image](https://github.com/tukicat/SDanShare/blob/main/PCB/SDanShare%20Rev%201%20Picture.jpg)
 
 *Revision 1 Prototype*
 
-**Bill of Materials**
+**Scope and Disclaimer**
 
-The SDanShare is designed to be cheap and simple to make, the following components are required (all through hole): - [Bill of Materials](https://github.com/tukicat/SDanShare/blob/main/Bill%20of%20Materials.txt)
+The ZX Spectrum along with the Dandanator reignited my passion for both the gaming and electronics. This small project was just my way of contributing something and learning at the same time. I have tested this as extensively as I can with the two ZX Spectrum +2s that I own - I have had no issues. That said I can offer no warranty on this device or guarantee on what issues may present themselves with other models of ZX Spectrum. 
 
-**License**
+**License*
 
 The SDanShare is for free use you can redistribute it and/or modify it under the terms of the CC0 1.0 Universal License, or (at your option) any later version.
 
