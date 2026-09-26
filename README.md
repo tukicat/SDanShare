@@ -43,7 +43,7 @@ A. Yes, it is very niche! There are three reasons for making it: -
 
 1. It helped make the device easier for me to use.
 2. I wanted to learn.
-3. I'm frequently amazed at the number of people who develop amazing devices like the Dandanator and Multiply and then give that work away to people for free, those people help to keep things like the ZX Spectrum alive. My very small contribution is me trying to also be one of those people. The Dandanator and Multiply are also two devices I personally think are great. They offer great functionality and easy to make. 
+3. I'm frequently amazed at the number of people who develop devices like the Dandanator and Multiply and then give that work away to people for free, those people help to keep things like the ZX Spectrum alive. My very small contribution is me trying to also be one of those people. The Dandanator and Multiply are also two devices I personally think are great. They offer great functionality and are easy to make. 
 
 Q. Do you intend to develop this device?
 
