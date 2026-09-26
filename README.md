@@ -29,9 +29,23 @@ A copy of the full license can be found in the [LICENSE](https://github.com/tuki
 
 **Acknowledgments**
 
-My project is just a simple device that stands on the shoulders of the fantastic work by others, namely Dandare, Mad3001 and OverCLK. It is designed by me to compliment the two devices listed below of which these three people worked as a team to create and develop:
+My project is just a simple device that stands on the shoulders of the fantastic work by others, namely Dandare, Mad3001 and OverCLK. It is designed by me to compliment the two devices listed below which these three people worked as a team to create and develop:
 
 The ZX Spectrum Dandantor - http://www.dandare.es/Proyectos_Dandare/ZX_Dandanator%21_Mini_EN.html
 
 The Dandantor Multiply - https://github.com/mad3001/Multiply
+
+**FAQ**
+
+Q. This is a very niche thing, why make it?
+A. Yes, it is very niche! There are three reasons for making it: -
+1. It helped make the device easier for me to use.
+2. I wanted to learn.
+3. I'm frequently amazed at the number of people who develop amazing devices like the Dandanator and Multiply and then give that work away to people for free, those people help to keep things like the ZX Spectrum alive. My very small contribution is me trying to also be one of those people. The Dandanator and Multiply are also two devices I personally think are great. They offer great functionality and easy to make. 
+
+Q. Do you intend to develop this device?
+A. Yes, if I have time. 
+
+Q. If I have an issue can you help?
+A. If you post a comment in the issues section I'll try to address it, but I am learning as I go, so no promises!
 
