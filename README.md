@@ -53,3 +53,7 @@ Q. If I have an issue can you help?
 
 A. If you post a comment in the issues section I'll try to address it, but I am learning as I go, so no promises!
 
+Q. I can see all sorts of design flaws with this device - do you want to know about them?
+
+A. Yes please, I am more than happy to hear from more experienced people who are willing to offer constructive feedback. Please leave comments in the issues section. 
+
