@@ -7,11 +7,15 @@ This is useful if you want to curate game collections and delete or add games qu
 
 [![SDanShare Video](https://img.youtube.com/vi/ibojSRDSC9k/0.jpg)](https://www.youtube.com/watch?v=ibojSRDSC9k)
 
+*Demonstration Video*
+
 **Bill of Materials**
 
 The SDanShare is designed to be cheap and simple to make, the following components are required (all through hole): - [Bill of Materials](https://github.com/tukicat/SDanShare/blob/main/Bill%20of%20Materials.txt)
 
 ![PCB Image](https://github.com/tukicat/SDanShare/blob/a5a017484c061787854efeb02938c7ddf3631a88/PCB/SDanShare_Rev2.png)
+
+*PCB Layout*
 
 **Scope and Disclaimer**
 
