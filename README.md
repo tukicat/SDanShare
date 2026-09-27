@@ -5,6 +5,8 @@ With this device the SD card for the Dandanator Multiply can remain in the Multi
 
 This is useful if you want to curate game collections and delete or add games quickly without removing the SD card from the Multiply.
 
+[![SDanShare Video](https://img.youtube.com/vi/ibojSRDSC9k/0.jpg)](https://www.youtube.com/watch?v=ibojSRDSC9k)
+
 ![PCB Image](https://github.com/tukicat/SDanShare/blob/a5a017484c061787854efeb02938c7ddf3631a88/PCB/SDanShare_Rev2.png)
 
 **Bill of Materials**
